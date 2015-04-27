@@ -1,2 +1,7 @@
-# Sunfounder_UltraKit_Python_Code_for_RaspberryPi
-Sunfounder ultrasonic kit Python code for Raspberry Pi.
+## Sunfounder ultrasonic kit Python code for Raspberry Pi
+#===
+### Website:
+		www.sunfounder.com
+### Email:
+		support@sunfounder.com
+
